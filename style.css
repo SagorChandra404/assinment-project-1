@@ -141,3 +141,35 @@ body{
     font-size: 24px;
     font-weight: 600;
 }
+.hot-deals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.off-color{
+    color: #E55473;
+}
+
+.hot-deal-descprition{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn2{
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+
+}
