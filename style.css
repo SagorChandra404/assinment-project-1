@@ -40,3 +40,50 @@ body{
     color: #FFF;
     background: #E55473;
 }
+
+.Featurer-head{
+    text-align: center;
+}
+
+.featurer-heading{
+    margin-top: 50px;
+}
+
+.featurer-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-descprition{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;;
+    font-weight: 400;
+    line-height: 30px;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 0 auto;
+
+}
+.box1{
+    margin-top: 30px;
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    position: relative;
+}
+.flower-size{
+    width: 310px;
+    height: 428px;
+    position: absolute;
+    margin: 111px 100px;
+}
